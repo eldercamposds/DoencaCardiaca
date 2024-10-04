@@ -8,4 +8,5 @@ Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para 
 * Regressão logistica
 * KNN
 * Árvore de decisão
+* XGBOOST
 
