@@ -9,4 +9,4 @@ Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para 
 * KNN
 * Árvore de decisão
 * XGBOOST
-
+* LigthGBM
