@@ -10,3 +10,4 @@ Este projeto tem por objetivo desenvolver um algoritmo de Machine Learning para 
 * Árvore de decisão
 * XGBOOST
 * LigthGBM
+* CatBoost
